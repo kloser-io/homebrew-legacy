@@ -1,4 +1,4 @@
-class Flyway < Formula
+class Flyway9 < Formula
   desc "Database version control to control migrations"
   homepage "https://flywaydb.org/"
   url "https://search.maven.org/remotecontent?filepath=org/flywaydb/flyway-commandline/9.19.1/flyway-commandline-9.19.1.tar.gz"
